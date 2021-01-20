@@ -30,7 +30,7 @@ It also includes all the new features, including inserting attachments and chang
 ## Installation
 
 #### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `DLLocalNotifications` by adding it to your `Podfile`:
+You can use [CocoaPods](http://cocoapods.org/) to install `DMIUserNotifications` by adding it to your `Podfile`:
 
 ```ruby
 platform :ios, '10.0'
