@@ -46,7 +46,7 @@ Note: your iOS deployment target must be 10.0+
 
 ## Contribute
 
-We would love for you to contribute to **DLLocalNotifications**, check the ``LICENSE`` file for more info.
+We would love for you to contribute to **DMIUserNotifications**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
